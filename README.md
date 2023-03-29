@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Gustavo Marques.
 
-- 🔭 I’m currently working on ...
 - 🌱 Estudando JS/React/Node/Typescript
 - 📫 Contate-me no email: gustavocode.dev@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/gustavomarques1">
