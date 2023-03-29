@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Marques.
 
-- 👀 Procurando vaga para Desenvolvedor Jr
+- 👀 Procurando oportunidade como Desenvolvedor Jr.
 - 🌱 Estudando JS/React/Node/Typescript
 - 📫 Contate-me no email: gustavocode.dev@gmail.com
 
