@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gustavo Marques.
 
-- 👀 Desenvolvedor React
-- 🌱 Estudando JS/React/Node/Typescript
+- 👀 Desenvolvedor FullStack
 - 📫 Contate-me no email: gustavocode.dev@gmail.com
 
 <div align="center">
